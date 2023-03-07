@@ -1,6 +1,5 @@
 AFRAME.registerComponent("create-buttons", {
     init:function(){
-        console.log("djahfjldshlkdlhkdsfh")
         //1. create the button
         var button1=document.createElement("button");
         button1.innerHTML="Rate Us";
